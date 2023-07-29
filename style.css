@@ -20,14 +20,14 @@
         display: flex;
         flex-direction: row;
         align-items: center;
-        background: url(../images/gris.png) no-repeat center center / cover;
+        background: url(gris.png) no-repeat center center / cover;
          }
       .pageright1
       {
         width: 40%;
         height: 100%;
         background-color: aqua;
-        background: url(../images/imgg1.png) no-repeat center center / cover;
+        background: url(imgg1.png) no-repeat center center / cover;
       }
       h1 
       {
@@ -198,11 +198,11 @@
      
      @keyframes playleft 
      {
-      0% {background: url(../images/gris.png) no-repeat center center/cover; }
-      25%{background: url(../images/roseg.png) no-repeat center center/cover;}
-      50%{background: url(../images/orangeg.png) no-repeat center center/cover;}
-      75%{background: url(../images/vertg.png) no-repeat center center/cover;}
-      100%{background: url(../images/gris.png) no-repeat center center/cover;}
+      0% {background: url(gris.png) no-repeat center center/cover; }
+      25%{background: url(roseg.png) no-repeat center center/cover;}
+      50%{background: url(orangeg.png) no-repeat center center/cover;}
+      75%{background: url(vertg.png) no-repeat center center/cover;}
+      100%{background: url(gris.png) no-repeat center center/cover;}
      }
      .pageright1
      {
@@ -215,11 +215,11 @@
      
      @keyframes playright 
      {
-      0% {background: url(../images/imgg1.png) no-repeat center center/cover; }
-      25%{background: url(../images/rose2.png) no-repeat center center/cover ;}
-      50%{background: url(../images/orange2.png) no-repeat center center/cover;}
-      75%{background: url(../images/vert2.png) no-repeat center center/cover;}
-      100%{background: url(../images/imgg1.png) no-repeat center center/cover;}
+      0% {background: url(imgg1.png) no-repeat center center/cover; }
+      25%{background: url(rose2.png) no-repeat center center/cover ;}
+      50%{background: url(orange2.png) no-repeat center center/cover;}
+      75%{background: url(vert2.png) no-repeat center center/cover;}
+      100%{background: url(imgg1.png) no-repeat center center/cover;}
      }
      header
      {
